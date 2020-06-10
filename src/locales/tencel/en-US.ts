@@ -1,0 +1,18 @@
+export default {
+    'TENCEL.TITLE': 'What is tencel fiber?',
+    'TENCEL.DESC1': 'Tencel Fiber is a new type of environmentally friendly soluble fiber, which is a brand new fiber produced by solvent-spun method using high quality softwood pulp or eucalyptus wood pulp as raw material.',
+    'TENCEL.DESC2': 'Its increasing predominance could be attributed to the combination of advantages of other fiber types, which contains the comfort of cotton, the strength of polyester, the beauty of hair fabric and the touch of silk; the high toughness can be remained regardless of a dry or humidsituation, hence, it is known as " the dream of fiber in 21st century".',
+    'TENCEL.CHARACTER': 'What are the characteristics of this fabric?',
+    'TENCEL.CHARACTER.T1': 'Natural and Healthy',
+    'TENCEL.CHARACTER.P1': ' ',
+    'TENCEL.CHARACTER.T2': 'Tough and Abrasively resistant',
+    'TENCEL.CHARACTER.P2': 'Due to its tight molecule structure, it has high strength and tensile resistance; it is tough and durable.',
+    'TENCEL.CHARACTER.T3': 'Hygroscopicity (Moisture absorbability) and Breathability',
+    'TENCEL.CHARACTER.P3': 'Due to its tight molecule structure, it has high strength and tensile resistance; it is tough and durable.',
+    'TENCEL.CHARACTER.T4': 'Soft and Smooth',
+    'TENCEL.CHARACTER.P4': 'The fiber molecules have smooth surface, which can bring a comfortable touch for the skin, and it is suitable for sensitive skin.',
+    'TENCEL.CHARACTER.T5': 'Antibacterial and Hygienic',
+    'TENCEL.CHARACTER.P5': 'Pure natural fiber has a perfect moisture management function, which can effectively reduce the bacteria.',
+    'TENCEL.CHARACTER.T6': 'Silk-like Drape',
+    'TENCEL.CHARACTER.P6': ' ',
+}

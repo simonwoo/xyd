@@ -1,0 +1,64 @@
+.header {
+  height: 80px;
+  padding: 0 48px;
+  width: 100%;
+  font-family: 'poppinslight', 'PingFang SC Regular', "Microsoft YaHei";
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.language-container {
+  margin-left: 30px;
+  float: right;
+  text-align: center;
+  height: 30px;
+  line-height: 28px;
+  // border-radius: 12px;
+  // border: 1px solid #70615e;
+  width: 140px;
+}
+
+.header-active {
+  color: #911d21 !important;
+}
+
+.language-item {
+  font-size: 12px;
+  color: #666;
+  display: inline;
+  padding: 0 10px;
+  cursor: pointer;
+}
+
+.seperart {
+  display: inline-block;
+  border-right: 1px solid #70615e;
+  height: 8px;
+}
+
+.submenu {
+  :global {
+    .ant-menu-item-active {
+      color: #911d21;
+    }
+
+    .ant-menu-item a:hover {
+      color: #911d21 !important;
+    }
+
+    .ant-menu-item-selected a {
+      color: #911d21 !important;
+    }
+
+    .ant-menu-vertical > .ant-menu-item {
+      height: 24px;
+      line-height: 24px;
+    }
+
+    .ant-menu-vertical .ant-menu-item:not(:last-child) {
+      margin-bottom: 0;
+    }
+  }
+}
