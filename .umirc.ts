@@ -4,6 +4,7 @@ export default defineConfig({
   nodeModulesTransform: {
     type: 'none',
   },
+  history: { type: 'hash' },
   locale: {
     // default zh-CN
     default: 'zh-CN',
